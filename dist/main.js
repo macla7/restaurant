@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("the king is here"),function(){console.log("helllllllo");const e=document.getElementById("content"),n=document.createElement("h1");n.innerHTML="Mitch's Muffins",e.appendChild(n)}()})();
