@@ -1,0 +1,56 @@
+h1 {
+  color: navy;
+}
+
+body {
+  background-color: bisque;
+}
+
+.home {
+  display: grid;
+  justify-items: center;
+}
+
+nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1rem;
+}
+
+img {
+  border: 3px solid black;
+  border-radius: 10px;
+}
+
+li {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background-color: whitesmoke;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.secondary-titles {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
+article {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  padding: 0.5rem;
+}
